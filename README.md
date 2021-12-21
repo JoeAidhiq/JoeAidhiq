@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeAidhiq
 - 👀 I’m interested in apps development, coding and startups
-- 🌱 I’m currently learning coding foreign languaguages
+- 🌱 I’m currently learning coding & foreign languages
 - 💞️ I’m looking to collaborate on new apps for community
 - 📫 You may reach me at joe_aidhiq@live.com
 
